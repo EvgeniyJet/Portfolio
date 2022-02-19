@@ -251,6 +251,7 @@ p {
 		display: block;
 		max-width: 100%;
 		height: 50px;
+		overflow-x: clip;
 	}
 	nav {
 		position: relative;
